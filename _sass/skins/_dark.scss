@@ -4,6 +4,8 @@
 // Email: kitian616@outlook.com
 ///
 
+$transparent-clr: #ffffff00;
+
 // main colors
 $main-color-1:     #ff9500;
 $text-color-1:     rgba(#fff, .8);
@@ -57,18 +59,35 @@ $red:             #da3d45;
 $text-color-function: rgba(#fff, .8);
 
 // logo colors
-$mail-color:       #0072c5;
+/*$mail-color:       #0072c5;
 $facebook-color:   #4267b2;
 $twitter-color:    #1da1f2;
 $weibo-color:      #e6162d;
 $google-plus-color:#ea4335;
-$telegram-color:   #32afed;
+$telegram-color:   #ffffff00;
 $medium-color:     #000;
 $zhihu-color:      #0084ff;
 $douban-color:     #42bd56;
 $linkedin-color:   #1074af;
 $github-color:     #000;
 $npm-color:        #fff;
+$instagram-color:  #ffffff00;*/
+
+$mail-color: $transparent-clr;
+$facebook-color: $transparent-clr;
+$twitter-color: $transparent-clr;
+$weibo-color: $transparent-clr;
+$google-plus-color: $transparent-clr;
+$telegram-color: $transparent-clr;
+$medium-color: $transparent-clr;
+$zhihu-color: $transparent-clr;
+$douban-color: $transparent-clr;
+$linkedin-color: $transparent-clr;
+$github-color: $transparent-clr;
+$npm-color: $transparent-clr;
+$discord-color: $transparent-clr;
+$youtube-color: $transparent-clr;
+$instagram-color: $transparent-clr;
 
 // highlight colors
 @import "skins/highlight/tomorrow-night";
