@@ -55,6 +55,7 @@
           curState = 'bottom';
         }
       }
+      /*
       function setState() {
         var scrollTop = $scrollTarget.scrollTop();
         if (scrollTop >= rootTop && scrollTop <= scrollBottom) {
@@ -64,7 +65,7 @@
         } else {
           bottom();
         }
-      }
+      }*/
       function init() {
         if(!hasInit) {
           var interval, timeout;
