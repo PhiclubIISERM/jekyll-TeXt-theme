@@ -26,7 +26,6 @@ html,
     display: none;
     & > aside {
       position: absolute;
-      width: map-get($layout, aside-width);
       @include overflow(hidden);
     }
   }
@@ -59,9 +58,19 @@ html,
 }
 
 .page__aside {
+  padding-right: 5%;
   .toc-aside {
-    padding: map-get($spacers, 5) 0 map-get($spacers, 3) map-get($spacers, 5);
+    margin-top: 3rem;
   }
+  .poster-img {
+    width: 100%;
+    border-radius: 20px;
+    border: 2px solid #1e1e2c;
+  }
+}
+
+.col-main .article-main {
+  padding-left: 5%;
 }
 
 .page__actions {
@@ -107,7 +116,7 @@ html,
   .col-aside {
     position: relative;
     display: block;
-    width: map-get($layout, aside-width);
+    width: 35%;
     & > aside {
       &.fixed {
         position: fixed;

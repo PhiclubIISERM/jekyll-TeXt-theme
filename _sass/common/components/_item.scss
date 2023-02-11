@@ -81,20 +81,16 @@ a > .item__header, a.item__header, .item__header > a {
 .items {
   & > .item {
     &:not(:last-child) {
-      margin-bottom: map-get($spacers, 2);
+      margin-bottom: 1.5rem;
     }
   }
 }
 
 .items--divided {
   & > .item {
-    &:not(:first-child) {
-      padding-top: map-get($spacers, 4);
-    }
-    &:not(:last-child) {
-      padding-bottom: map-get($spacers, 4);
-      @include split-line(bottom);
-    }
     list-style-type: none;
+    padding: 0.5rem 1.5rem 1.5rem 1.5rem;
+    border: 2px solid #999999;
+    border-radius: 1rem;
   }
 }

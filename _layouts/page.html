@@ -181,7 +181,7 @@ layout: base
         {%- if _full_width == false -%}
           <div class ="main">
         {%- endif -%}
-            <div class="grid grid--reverse">
+            <div class="grid">
 
               <div class="col-aside d-print-none js-col-aside">
                 {%- if page.aside -%}
@@ -194,7 +194,7 @@ layout: base
               <div class="col-main cell cell--auto">
                 {%- include main/top/custom.html -%}
                 {%- if _page_type == 'article' -%}
-                  <article itemscope itemtype="http://schema.org/Article">
+                  <article class="article-main" itemscope itemtype="http://schema.org/Article">
                 {%- elsif _page_type == 'webpage' -%}
                   <article itemscope itemtype="http://schema.org/WebPage">
                 {%- else -%}

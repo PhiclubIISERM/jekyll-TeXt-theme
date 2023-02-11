@@ -23,7 +23,8 @@
     {%- if _author.email -%}
       <li title="{{ _locale_string_email }}">
       <a class="button button--circle mail-button" itemprop="email" href="mailto:{{ _author.email }}" target="_blank">
-        <i class="fas fa-envelope"></i>
+        <!-- <i class="fas fa-envelope"></i> -->
+        <div class="icon">{%- include svg/icon/social/mail.svg -%}</div>
       </a>
     {%- endif -%}
 
@@ -126,7 +127,7 @@
 
     {%- if _author.youtube -%}
       <li title="{{ _locale_string_follow | replace: '[NAME]', 'Youtube' }}">
-        <a class="button button--circle youtube-button" itemprop="sameAs" href="https://youtube.com/{{ _author.youtube }}" target="_blank">
+        <a class="button button--circle youtube-button" itemprop="sameAs" href="https://youtube.com/@{{ _author.youtube }}" target="_blank">
           <div class="icon">{%- include svg/icon/social/youtube.svg -%}</div>
         </a>
       </li>
