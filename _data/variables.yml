@@ -16,7 +16,7 @@ default:
   sources: bootcdn
 
   page:
-    mode: normal
+    mode: immersive
     type: webpage
     article_header:
       align: left

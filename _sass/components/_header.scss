@@ -1,5 +1,8 @@
+.page__header {
+  z-index: 1;
+}
+
 .header {
-  background: $header-background;
   a {
     font-weight: map-get($base, font-weight);
     text-decoration: none !important;

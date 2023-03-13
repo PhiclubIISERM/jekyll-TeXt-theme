@@ -1,3 +1,5 @@
+@import url('https://fonts.cdnfonts.com/css/montserrat');
+
 body,
 html,
 .root,
@@ -48,6 +50,31 @@ html,
     padding-bottom: 0;
   }
 }
+
+.bg_image {
+  width: 100%;
+  height: 100vh;
+  background-image: url("/assets/images/main_bg.png");
+  background-size: cover;
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+}
+
+.bg_text {
+  color: white;
+  z-index: 1;
+  position: absolute;
+  top: 50vh;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
+}
+
+.bg_text h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 5rem;
+}
+
 .hide-footer {
   .page__content {
     padding-bottom: 0;
