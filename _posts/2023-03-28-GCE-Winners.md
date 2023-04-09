@@ -7,7 +7,7 @@ Dear All,
 
 We are excited to announce the winners of the various competitions held under the Grand Canonical Ensemble! We hope you all had a great time participating in the events and honing your skills.
 
-Without further ado, here are the winners of each event:
+Without further ado, here are the winners of each event<!--more-->:
 
 ### Pictionary
 **1st place** - Sachin, Vignesh <br>
