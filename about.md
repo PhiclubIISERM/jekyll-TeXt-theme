@@ -26,10 +26,14 @@ titles:
 key: page-about
 ---
 
+Hey there!
+Welcome to Phi@i, the Physics club of IISER Mohali!
+We are a group of physics enthusiasts who are excited to share our knowledge with the world.
+From talks on the latest research and internships to lighthearted events, we have hosted a wide range of exciting activities. 
+Our talk series, Talk of The Week is sure to keep you informed about the different fields of Physics. 
 
-Physics is hopefully, simple. But Physicists are not.
-Welcome to Phi@i, the Physics club of IISER Mohali where all things simple are discussed and debated to its utmost complexity. We are a group of physics enthusiasts who are excited to connect with you on the various possibilities in physics and mentor you in the process. From talks on the latest research to internships and interesting games, we have had some of the most exciting activities of late. Our talk series, Talk of The Week is sure to keep you informed about all things hot and happening in the field of Physics. The Grand Canonical Ensemble is bound to bring out the Einstein in you with its unique keynote speeches and contests with exciting prizes. Overall, Phi@i is somewhere you can get to know what being a physicist is all about. Let’s do our part to improving the ever expanding realm of physics…
+Happy exploring!
 
 ---
 
-Made by [Rishi](https://github.com/RishiVora) and [Rajnil](https://github.com/Aaevelion)
+Made by [Rishi Vora](https://github.com/RishiVora) and [Rajnil Mukherjee](https://github.com/Aaevelion)
