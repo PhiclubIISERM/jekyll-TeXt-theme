@@ -13,12 +13,6 @@ The great scientists must be resurrected again, as we have failed to better our 
 
 As a scientist who has been recently resurrected, you will have to talk your way through others, explaining why your theories on how to solve the crisis have the most potential to explain and resolve the problem at hand. In addition to this, you also have to keep in mind your country while proposing your solutions, much like a mock UN debate. Also, your powers and handicaps will come in extremely handy in deciding the final resolution of the committee.
 
-We are hereby attaching the rules of the debate, a registration form as well as the scientist's roster. Since the list is exhaustive, the scientists' roles will be given on a first-come, first-served basis to the people who fill out the form. People who are unable to fill it can turn up to the event, and the remaining scientists (if any) will be allotted to them.
-
-[https://forms.gle/tGSms4Agmg67V7We7](https://forms.gle/tGSms4Agmg67V7We7)
-
-Do not worry if you cannot grasp the rules from the pdfs sent. We will hold an orientation session, on Friday, before the event to clear all questions about how the debate will proceed.
-
 The details of the event are as follows - <br>
 **Date**: 25th and 26th March <br>
 **Time**: 10:00 am - 5:00 pm with a lunch break <br>
@@ -26,8 +20,4 @@ The details of the event are as follows - <br>
 
 Hosted by LDS and Phi@i teams
 
-Regards <br>
-LDS <br>
-Pratik Kulkarni (8483806373) <br>
-Atul Kumar Tiwary (9546596800) <br>
-Shivika Gupta (6283717438) <br>
+<strong> Coming soon: </strong> List of scientists, their superpowers, resolutions, final paper published.

@@ -45,6 +45,4 @@ For more details, check out the schedule below for timings for the events, and p
 
 Hope to see you on the other side!
 
-Warm regards,<br>
-Phi@I
 
