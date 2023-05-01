@@ -35,11 +35,3 @@ We would also like to thank Kavish and Kankana for the posters. Suraj and Jyotir
 
 We look forward to bringing you more such events in the future. Stay tuned for more physics and fun!
 
-Best Regards, <br>
-Phi@I <br>
-
-
-
---
-Conveners
-Ritam, Aprameyan, Arnav
