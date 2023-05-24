@@ -560,7 +560,7 @@ Mathematical Knots in 3-dimensional space can be imagined as closed loops with t
 
 ## Condensed Matter Physics
 
-**Title**: Interacting bosons on an optical lattice [(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/MS18117_PRJ502_First_Draft-AkshayShankar.pdf)  
+**Title**: Interacting bosons on an optical lattice [(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/Akshay-poster.png)  
 **Name**: Akshay Shankar (MS18117)  
 **Local Thesis Guide**: Dr. Sanjeev Kumar  
 **External Guide**: Prof. Dr. Tilman Pfau
