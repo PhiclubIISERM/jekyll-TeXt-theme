@@ -1,4 +1,4 @@
-﻿---
+---
 title: MS 18 Thesis Survey Results
 tags: Career
 ---
@@ -36,8 +36,8 @@ Use the quicklinks below:
 - [Biophysics](#biophysics)
 - [Bioinformatics](#bioinformatics)
 - [Computational Soft Matter](#computational-soft-matter)
-- [Neuronal Oscillators](#neuronal-osciallators)
-- [Non-Linear Dynamics/Theoretical Ecology](#non-linear-dynamics-theoretical-ecology)
+- [Neuronal Oscillators](#neuronal-oscillators)
+- [Non-Linear Dynamics and Theoretical Ecology](#non-linear-dynamics-and-theoretical-ecology)
 - [Non-genetic Intergenerational Inheritance](#non-genetic-intergenerational-inheritance)
 - [Population Genomics](#population-genomics)
 - [Theoretical Evolutionary Biology](#theoretical-evolutionary-biology)
@@ -203,29 +203,29 @@ One can go through the papers by the GaiaUB group at ICCUB, University of Barcel
 # Biology and Biophysics
 ## Biophysics
 
-**Title**: Effect of tip-link protein (Cadherin23) on membrane Bending Rigidity [(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/Hemraj_Poster-HemrajMeena.pdf)
-**Name**: Hemraj Meena (MS18029)
-**Local Thesis Guide**: Tripta Bhatia
+**Title**: Effect of tip-link protein (Cadherin23) on membrane Bending Rigidity [(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/Hemraj_Poster-HemrajMeena.pdf)  
+**Name**: Hemraj Meena (MS18029)  
+**Local Thesis Guide**: Tripta Bhatia  
 
-[To start of project↑](#biophysics)
-[To main section↑](#biology-and-biophysics)
+[To start of project↑](#biophysics)  
+[To main section↑](#biology-and-biophysics)  
 
 
 
 ## Bioinformatics
 
-**Title**: Protein Residue Contact Network Analysis to understand function of Single Residue Mutations [(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/final_print_poster_ms180067-DhanasekharVk.pdf)
-**Name**: Dhanasekhar V.K (MS18067)
-**Local Thesis Guide**: Dr. Sashi Bhushan Pandit
-**External Guide**: Prof. Somadatta Sinha
+**Title**: Protein Residue Contact Network Analysis to understand function of Single Residue Mutations [(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/final_print_poster_ms180067-DhanasekharVk.pdf)  
+**Name**: Dhanasekhar V.K (MS18067)  
+**Local Thesis Guide**: Dr. Sashi Bhushan Pandit  
+**External Guide**: Prof. Somadatta Sinha  
 
 
 
-**Brief explanation**:
-*Protein is very essential for biological function and maintaining homeostasis in our body. A small alteration of protein structure can be responsible for the change in function from small to complete loss of function. To understand the structure change and functional correlation associated with single residue mutation(in this work) we used the graph theory approach. And to quantify the characteristic change we came up with a scoring matrix that can correlate the amino acid property with the phenotypic function of the mutated protein.*
+**Brief explanation**:  
+*Protein is very essential for biological function and maintaining homeostasis in our body. A small alteration of protein structure can be responsible for the change in function from small to complete loss of function. To understand the structure change and functional correlation associated with single residue mutation(in this work) we used the graph theory approach. And to quantify the characteristic change we came up with a scoring matrix that can correlate the amino acid property with the phenotypic function of the mutated protein.*  
 
   
-**Why did you decide to choose this topic/problem for your thesis?**  
+**Why did you decide to choose this topic/problem for your thesis?**    
 *I will explain it with a representative example of Sickle cell anemia in which a change in one amino acid glutamic acid changes to valine in the beta subunit of hemoglobin. The result from the human genome project shows that the human genome is varied in the presence of single nucleotide variation(single nucleotide polymorphism) and a lot of diseases are associated with single residue variation. So if we know the behavior of the changes that are caused by small variations we can predict the structure-function correlation associated with this mutation.*
 
 **How did you go about learning and researching for your thesis?**  
@@ -234,35 +234,35 @@ One can go through the papers by the GaiaUB group at ICCUB, University of Barcel
 **How can one learn more about work related to your thesis?**  
 *You can read research articles that are related to network science and protein science.*
 
-[To start of project↑](#bioinformatics)
-[To main section↑](#biology-and-biophysics)
+[To start of project↑](#bioinformatics)  
+[To main section↑](#biology-and-biophysics)  
 
 ## Computational Soft Matter
-**Title**: Understanding collagen assembly [(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/CopyofCopyofunderstandingcollagenassemblyposter-October19%2C10_01AM(1)-SmritiChhibber.pdf)
-**Name**: Smriti Chhibber (MS18142)
-**Local Thesis Guide**: Dr. Tripta Bhatia
-**External Guide**: Dr. Andela Saric
+**Title**: Understanding collagen assembly [(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/CopyofCopyofunderstandingcollagenassemblyposter-October19%2C10_01AM(1)-SmritiChhibber.pdf)  
+**Name**: Smriti Chhibber (MS18142)  
+**Local Thesis Guide**: Dr. Tripta Bhatia  
+**External Guide**: Dr. Andela Saric  
 
-**Brief explanation**:
+**Brief explanation**:  
 *Collagen is the most abundant protein of human body and it shows a banding pattern with period of 67nm, something that has stayed the same throughout the past hundred years. My thesis is on understanding how this pattern arrises and creating simulations to mimic it.*
 
-[To start of project↑](#computational-soft-matter)
+[To start of project↑](#computational-soft-matter)  
 [To main section↑](#biology-and-biophysics)
 
 ## Neuronal Oscillators
 
-**Title**: Resilience of a Network of Neuronal Oscillators [(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/Poster-AalhadAbhayBhatt.png)
-**Name**: Aalhad Abhay Bhatt (MS18118)
-**Local Thesis Guide**: Sudeshna Sinha
+**Title**: Resilience of a Network of Neuronal Oscillators [(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/Poster-AalhadAbhayBhatt.png)  
+**Name**: Aalhad Abhay Bhatt (MS18118)  
+**Local Thesis Guide**: Sudeshna Sinha  
 
-[To start of project↑](#neuronal-oscillators)
-[To main section↑](#biology-and-biophysics)
+[To start of project↑](#neuronal-oscillators)  
+[To main section↑](#biology-and-biophysics)  
 
-## Non-Linear Dynamics/Theoretical ecology
+## Non-Linear Dynamics and Theoretical ecology
 
-**Title**: Threshold-Activated Predator Dispersal in Spatially Extended Ecological Systems [(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/PRJ502_Poster-MS18157-Final(1)-ShreyasRavindraGadge.pdf)
-**Name**: Shreyas Gadge (MS18157)
-**Local Thesis Guide**: Sudeshna Sinha
+**Title**: Threshold-Activated Predator Dispersal in Spatially Extended Ecological Systems [(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/PRJ502_Poster-MS18157-Final(1)-ShreyasRavindraGadge.pdf)  
+**Name**: Shreyas Gadge (MS18157)  
+**Local Thesis Guide**: Sudeshna Sinha  
 
 **Brief explanation**:
 *We look at a density-dependent dispersal rule - threshold-activated dispersal for predators in a tritrophic (vegetation-prey-predator) food web model, extended spatially.*
@@ -284,60 +284,58 @@ One can go through the papers by the GaiaUB group at ICCUB, University of Barcel
 *Several courses are regularly offered at IISER where you can learn more about complex systems - Non-linear dynamics, Theoretical Biology, Network Science, Theory of Computation, etc. You can also go to the Moodle archive (2020-21 even sem) and find lectures on modeling complex systems (IDC621) by Prof Sudeshna Sinha.*
 *For this field, once you are familiar with the concept of differential equations or functional maps and basic coding, you can build up your knowledge using basic papers such as* [*Nature article*](https://www.nature.com/articles/20676) *and* [*Physical Review Letters article*](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.71.4083) *and try to reproduce some basic results.*
 
+[To start of project↑](#non-linear-dynamics-and-theoretical-ecology)  
+[To main section↑](#biology-and-biophysics)
 
 
 ## Non-genetic intergenerational inheritance
 
-**Title**: Paternal exposure to early life adversity alters placental efficiency in offspring [(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/MSposter_8_4_23-RattanKaur.pdf)
+**Title**: Paternal exposure to early life adversity alters placental efficiency in offspring [(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/MSposter_8_4_23-RattanKaur.pdf)  
+**Name**: Rattan (MS18146)  
+**Local Thesis Guide**: Dr. Sadhan Das  
+**External Guide**: Dr. Michelle Holland  
 
-**Name**: Rattan (MS18146)
-**Local Thesis Guide**: Dr. Sadhan Das
-**External Guide**: Dr. Michelle Holland
-
-[To start of project↑](#non-genetic-intergenerational-inheritance)
+[To start of project↑](#non-genetic-intergenerational-inheritance)  
 [To main section↑](#biology-and-biophysics)
 
 
 ## Population Genomics
-**Title**: Demographic history of European Arabis alpina [(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/poster_MS_thesis_revised_BT_4-Mehak.pdf)
+**Title**: Demographic history of European Arabis alpina [(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/poster_MS_thesis_revised_BT_4-Mehak.pdf)  
+**Name**: Mehak (MS18041)  
+**Local Thesis Guide**: Dr. N.G. Prasad  
+**External Guide**: Dr. Andrea Fulgione  
 
-**Name**: Mehak (MS18041)
-**Local Thesis Guide**: Dr. N.G. Prasad
-**External Guide**: Dr. Andrea Fulgione
-
-[To start of project↑](#population-genomics)
+[To start of project↑](#population-genomics)  
 [To main section↑](#biology-and-biophysics)
 
 ## Theoretical Evolutionary Biology
 
 **Title**: When will females evolve ornaments to attract males for mating? 
-[(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/ThesisPosterKartikey8.4copy-KartikeyAwasthi.pdf)
-**Name**: Kartikey Awasthi (MS18203)
-**Local Thesis Guide**: Dr. Manjari Jain
-**External Guide**: Dr. Jonathan Henshaw
+[(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/ThesisPosterKartikey8.4copy-KartikeyAwasthi.pdf)  
+**Name**: Kartikey Awasthi (MS18203)  
+**Local Thesis Guide**: Dr. Manjari Jain  
+**External Guide**: Dr. Jonathan Henshaw  
 
 
-**Brief explanation**: 
+**Brief explanation**:  
 *In some animals like the long-tailed dancefly, males bring nutritious substances to females before mating (called a nuptial gift). A curious role-reversal then takes place in some species where the females evolve special ornaments to attract males (instead of the usual males attracting females!). My project investigates different ecological conditions via a simulation to figure out exactly what causes the evolution of female ornaments in species with nuptial gifts so ecologists can predict this trait's evolution in other species.*
 
-[To start of project↑](#theoretical-evolutionary-biology)
+[To start of project↑](#theoretical-evolutionary-biology)  
 [To main section↑](#biology-and-biophysics)
 
 ## Three Dimensional Bioprinting and Microfluidics
-**Title**: Developing a device for high throughput fabrication of spheroids using interconnecting chambers in a dynamic flow [(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/Research-Poster_Shweta-ShwetaSaini.pdf)
-**Name**: Shweta Saini (MS18143)
-**Local Thesis Guide**: Dr. Jogender Singh
-**External Guide**: Prof. Ibrahim Tarik Ozbolat
+**Title**: Developing a device for high throughput fabrication of spheroids using interconnecting chambers in a dynamic flow [(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/Research-Poster_Shweta-ShwetaSaini.pdf)  
+**Name**: Shweta Saini (MS18143)  
+**Local Thesis Guide**: Dr. Jogender Singh  
+**External Guide**: Prof. Ibrahim Tarik Ozbolat  
 
-
-
-**Brief explanation**:
+**Brief explanation**:  
 *It is an interdisciplinary project that includes engineering and biology.*
 
 **Why did you decide to choose this topic/problem for your thesis?**  
 *I was always interested in medicine. Initially my interests were in Solid Organ Transplantation but problems like Immune Suppression and Graft Rejection is making the success rate very low. To tackle this problem elaborate research is being done in the field of Stem cells and Tissue Engineering that can use patient specific cells and a cadaver for developing artificial organ. Recently, 3D printing has become very popular, using the same principal, in place of the ink, if a bioink is used, it is called 3D Bioprinting. A hydrogel having cells can be used as a bioink to develop a structure of choice. I feel that this field has the potential to solve the problems faced during solid organ transplantation and I hope there will be a day when no one will die while being on a waiting list for an organ. My thesis mostly focussed on Microfluidics that can be used for a better in vitro drug testing platform.*
 
-**Do you plan to continue working on your thesis topic in the future, or changing to something else?**
+**Do you plan to continue working on your thesis topic in the future, or changing to something else?**  
 *Yes, I will be going to the same university, Penn State University and planning to join a lab that is working in the same field of Stem cells and Tissue Engineering.*
 
 **How can one learn more about work related to your thesis?**  
@@ -346,7 +344,7 @@ One can go through the papers by the GaiaUB group at ICCUB, University of Barcel
 - [Paper on thesis work](https://doi.org/10.1016/j.addma.2023.103566)
 - [Review article on bioprinting](https://doi.org/10.1002/adbi.202200267)
 
-[To start of project↑](#three-dimensional-bioprinting-and-microfluidics)
+[To start of project↑](#three-dimensional-bioprinting-and-microfluidics)  
 [To main section↑](#biology-and-biophysics)
 
 
@@ -354,38 +352,38 @@ One can go through the papers by the GaiaUB group at ICCUB, University of Barcel
 
 ## Organic Synthesis
 
-**Title**: Cyclopropenium Ion catalysted 1,6- Conjugate Addition of Indoles to p- Quinone Methides [(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/PosterArkopal(1)(8)-ArkopalNandy.pptx)
-**Name**: Arkopal Nandy (MS18074)
-**Local Thesis Guide**: Dr. R. Vijaya Anand
-[To start of project↑](#organic-synthesis)
+**Title**: Cyclopropenium Ion catalysted 1,6- Conjugate Addition of Indoles to p- Quinone Methides [(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/PosterArkopal(1)(8)-ArkopalNandy.pptx)  
+**Name**: Arkopal Nandy (MS18074)  
+**Local Thesis Guide**: Dr. R. Vijaya Anand  
+[To start of project↑](#organic-synthesis)  
 [To main section↑](#chemistry)
 
 # CS and Data Science
 
 ## Algorithm Fairness Improvement
 
-**Title**: Improve Algorithmic fairness in recidivism prediction [(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/poster_akshit_nanda(1)-AkshitNanda.pdf)
-**Name**: Akshit Nanda (MS18216)
-**Local Thesis Guide**: Dr. Vaibhav Vaish
+**Title**: Improve Algorithmic fairness in recidivism prediction [(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/poster_akshit_nanda(1)-AkshitNanda.pdf)  
+**Name**: Akshit Nanda (MS18216)  
+**Local Thesis Guide**: Dr. Vaibhav Vaish  
 **External Guide**: Dr. Sarabjot Singh Anand
 
-[To start of project↑](#algorithm-fairness-improvement)
+[To start of project↑](#algorithm-fairness-improvement)  
 [To main section↑](#cs-and-data-science)
 
 
 ## Network Science
 
-**Title**: Tracking the Evolution of Technology and Science using Patent and Publication Data [(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/PRJ502Poster-GarimanSingh.pdf)
-**Name**: Gariman Singh (MS18057)
-**Local Thesis Guide**: Dr. Amit Kulshrestha
+**Title**: Tracking the Evolution of Technology and Science using Patent and Publication Data [(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/PRJ502Poster-GarimanSingh.pdf)  
+**Name**: Gariman Singh (MS18057)  
+**Local Thesis Guide**: Dr. Amit Kulshrestha  
 **External Guide**: Dr. Sarabjot Singh Anand
 
 
 
-**Brief explanation**: 
-Today, much effort is being put into tracking the changes in Technology and Science. This is because the results produced are not only informative but also useful, as is in the case with figuring out "Emerging Technologies". In this work, we approach the problem from the perspective of Graph Theory or Network Science. We design a way to construct keyword networks and identifying groups of communities within them using the techniques of Graph Convolutional Neural Network and Random Walks. Each major community identified represents a hot topic of research in the year of a field for which data has been taken.
+**Brief explanation**:  
+*Today, much effort is being put into tracking the changes in Technology and Science. This is because the results produced are not only informative but also useful, as is in the case with figuring out "Emerging Technologies". In this work, we approach the problem from the perspective of Graph Theory or Network Science. We design a way to construct keyword networks and identifying groups of communities within them using the techniques of Graph Convolutional Neural Network and Random Walks. Each major community identified represents a hot topic of research in the year of a field for which data has been taken.*
 
-[To start of project↑](#network-science)
+[To start of project↑](#network-science)  
 [To main section↑](#cs-and-data-science)
 
 
@@ -393,20 +391,20 @@ Today, much effort is being put into tracking the changes in Technology and Scie
 # Humanities
 
 ## Film Studies
-**Title**: Pride and Musicals: A study of queer musical films[(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/Posterfinal1-AryaPadhye.pdf)
-**Name**: Arya Padhye (MS 18200)
-**Local Thesis Guide**: Dr. Adrene Freeda D'Cruz
-[To start of project↑](#film-studies)
+**Title**: Pride and Musicals: A study of queer musical films[(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/Posterfinal1-AryaPadhye.pdf)  
+**Name**: Arya Padhye (MS 18200)  
+**Local Thesis Guide**: Dr. Adrene Freeda D'Cruz  
+[To start of project↑](#film-studies)  
 [To main section↑](#humanities)
 
 ## Models in Knowledge Production
-**Title**: Models in Knowledge Production [(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/Mayukh_Thesis_Poster-MayukhChakrabarty.pdf)
-**Name**: Mayukh Chakrabarty (MS18046)
-**Local Thesis Guide**: Dr. Neeraja Sahasrabudhe
+**Title**: Models in Knowledge Production [(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/Mayukh_Thesis_Poster-MayukhChakrabarty.pdf)  
+**Name**: Mayukh Chakrabarty (MS18046)  
+**Local Thesis Guide**: Dr. Neeraja Sahasrabudhe  
 **External Guide**: Dr. Tathagata Sengupta
 
 
-**Brief explanation**:
+**Brief explanation**:  
 *The thesis attempts to analyze models as a particular class of representation in natural and social sciences. Their uniqueness arises from a structural correspondence between the model and its target, defined in particular contexts. We attempt to (i) sketch a history of models in knowledge production and (ii) understand how they function. Models are employed to perform descriptive and prescriptive roles; we explore the extremes where description and prescription overwhelm one another, respectively. We move into insurance modeling as a central example in the thesis. We focus only on the aspect of risk transfer marked by contractual obligations. In the four-hundred year of its history, we see it evolve from striking a bargain to a mathematically robust enterprise. The evolution happens in conversations between disciplines such as mathematics, astronomy, economics, and sociology under the larger context of statecraft and population management*
 
   
@@ -416,13 +414,13 @@ Today, much effort is being put into tracking the changes in Technology and Scie
 **How did you go about learning and researching for your thesis?**  
 *Initially, we planned to examine the philosophy and ethicality of models. However, a good amount of work was already done on it. The historical part, on the other hand remain underexplored, and still needs to be excavated from other scientific works.*
 
-**Do you plan to continue working on your thesis topic in the future, or changing to something else?**
+**Do you plan to continue working on your thesis topic in the future, or changing to something else?**  
 *I definitely plan to work on it, but probably not as a PhD dissertation.*
 
 **How can one learn more about work related to your thesis?**  
 *For the philosophical part, look at the list of references in the SEP articles of models in science and scientific representation. If someone can find a good secondary literature of the historical part, please drop me an email at mayukh.math@gmail.com.*
 
-[To start of project↑](#models-in-knowledge-production)
+[To start of project↑](#models-in-knowledge-production)  
 [To main section↑](#humanities)
 
 # Mathematics
