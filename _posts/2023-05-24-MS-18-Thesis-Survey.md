@@ -85,14 +85,13 @@ Use the quicklinks below:
 
 ## Cosmological Data Analysis
 **Title**: Cosmological Data Fitting [(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/PRJ502_Poster-AdityaPawanSaikri.pdf)  
-
-**Name**: Aditya Pawan Saikia (MS18208)
+**Name**: Aditya Pawan Saikia (MS18208)  
 **Local Thesis Guide**: Dr. Harvinder Kaur Jassal
 
-**Brief explanation**:
+**Brief explanation**:  
 *We analyzed two supernova datasets: Pantheon, and Pantheon+SH0ES, and applied both chi$^2$ and Principal Component analyses to the standard Lambda CDM model of cosmology. We used PCA for reducing the number of parameters without reducing variability in chi$^2$ while chi$^2$ analysis was used in two optimization algorithms: hyperparametric grid search, and Nelder-Mead/Downhill simplex search.*
   
-**Why did you decide to choose this topic/problem for your thesis?**  
+**Why did you decide to choose this topic/problem for your thesis?**   
 *Astrophysics has been my field of choice, and I was motivated to choose something in Cosmology after the very difficult course in Relativistic Cosmology (PHY663). Dr. Jassal was willing to offer a thesis where my work would not be in the more difficult early universe portion, but more towards things like optimization of the parameters that describe how our universe evolved.*
 
 **How did you go about learning and researching for your thesis?**  
@@ -104,81 +103,82 @@ Use the quicklinks below:
 **How can one learn more about work related to your thesis?**  
 *It depends on how much does one want to go deeper down the iceberg; one can start from the Friedmann equations itself in a book and derive the formulae I have in my poster, but if one wants to know how these came about they will need a good background in General Relativity. Two books (which are not related to my thesis) which I would recommend if you want to get into cosmology are J. B. Hartle's introduction to General Relativity if you want the mathematical background to GR, and Scott Dodelson's Modern Cosmology for those who want to delve into Relativistic Cosmology and are familiar with GR. Both build up very steadily in difficulty.*
 
-[To start of project↑](#cosmological-data-analysis)
+[To start of project↑](#cosmological-data-analysis)  
 [To main section↑](#astrophysics-and-cosmology)
  
 ## Dark Matter
 
-**Title**: WIMP decay as possible WDM model [(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/Thesisposter2-AbineetParichha.pdf)
-**Name**: Abineet Parichha (MS18094)
-**Local Thesis Guide**: Dr. Harvinder Kaur Jassal
+**Title**: WIMP decay as possible WDM model [(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/Thesisposter2-AbineetParichha.pdf)  
+**Name**: Abineet Parichha (MS18094)  
+**Local Thesis Guide**: Dr. Harvinder Kaur Jassal  
 **External Guide**: Dr. Shiv K Sethi (RRI Bangalore)
 
-**Brief explanation**:
+**Brief explanation**:  
 *Given the discrepancies between CDM N body simulations and observations and the lack of detection of WIMP (one of the strongest CDM particle candidate), we are motivated to consider the decay of WIMP into lighter warmer dark matter particles and radiation. We build the linear perturbation theory pertaining to this model and test its consequences on the structure formation in our universe using Planck 2018 CMB, BOSS (BAO) and SDSS (Lyman alpha) neutral hydrogen data sets. We compute constraints on properties of the dark matter particle like its mass and cross-section and discuss its implications on dark matter searches.*
 
-[To start of project↑](#dark-matter)
+[To start of project↑](#dark-matter)  
 [To main section↑](#astrophysics-and-cosmology)
 
 
 
 ## Exoplanets
 
-**Title**: To mitigate the effect of moonlight contamination in spectroscopic searches for extrasolar planets [(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/EPRV5-Poster-Komal(3)-KomalBali.pdf)
-**Name**: Komal Bali (MS18192)
-**Local Thesis Guide**: Prof. Jasjeet Singh Bagla
-**External Guide**: Dr. Joe Philip Ninan
+**Title**: To mitigate the effect of moonlight contamination in spectroscopic searches for extrasolar planets [(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/EPRV5-Poster-Komal(3)-KomalBali.pdf)  
+**Name**: Komal Bali (MS18192)  
+**Local Thesis Guide**: Prof. Jasjeet Singh Bagla  
+**External Guide**: Dr. Joe Philip Ninan  
 
-**Brief explanation**:
+**Brief explanation**:  
 *Solar light contamination from lunar and atmospheric scattering of sunlight, results in systematic errors in stellar radial velocity (RV) measurements. It can significantly reduce the 10 cm/s sensitivity required to detect and characterize terrestrial exoplanets in or near habitable zones of Sun-like stars (Roy et al., 2020). NEID (NN-EXPLORE Exoplanet Investigations with Doppler Spectroscopy) is an optical EPRV Spectrograph on the WIYN 3.5-meter Telescope at Kitt Peak National Observatory, Arizona, USA. The NEID fiber head comprises sky fiber, science fiber, cal fiber, and coherent fiber bundles (CFBs).*
  *In this work, I present the effectiveness of using the simultaneous data from the sky fiber to correct for the solar light contamination in the science fiber spectra of the star. This correction technique is expected to reduce this source of sky contamination error to below the photon-noise limit of typical stellar observations.*
 
-**Why did you decide to choose this topic/problem for your thesis?**
+**Why did you decide to choose this topic/problem for your thesis?**  
 *My previous experiences in the field of exoplanets.*
 
-**How did you go about learning and researching for your thesis?**
+**How did you go about learning and researching for your thesis?**  
 *Mostly a combination of astronomical science and data analysis on the spectrograph's data and some computational aspects.*
 
-**Do you plan to continue working on your thesis topic in the future, or changing to something else? (Elaborate if necessary)**
+**Do you plan to continue working on your thesis topic in the future, or changing to something else?**  
 *I will be working in exoplanetary sciences, but I am not yet sure of the exactly narrowed down topic. I love both the atmospheric work as well as the detection techniques.*
 
-**How can one learn more about work related to your thesis? (Add specifics if possible)**
-*One can refer to the following papers:
+**How can one learn more about work related to your thesis?**  
+One can refer to the following papers:
 - Roy et al., 2020
-- Wright, J. T. (2017)*
+- Wright, J. T. (2017)
 
-[To start of project↑](#exoplanets)
+[To start of project↑](#exoplanets)  
 [To main section↑](#astrophysics-and-cosmology)
 
 
 ## Galactic Disk Morphology
 
-**Title**: Understanding the Galactic disk morphology using Open Star Clusters [(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/PosterDraft-SagarMalhotra.pdf)
-**Name**: Sagar Malhotra (MS18091)
-**Local Thesis Guide**: Dr. Pankaj Kushwaha
-**External Guide**: Dr. Yogesh C. Joshi (ARIES, Nainital)
+**Title**: Understanding the Galactic disk morphology using Open Star Clusters [(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/PosterDraft-SagarMalhotra.pdf)  
+**Name**: Sagar Malhotra (MS18091)  
+**Local Thesis Guide**: Dr. Pankaj Kushwaha  
+**External Guide**: Dr. Yogesh C. Joshi (ARIES, Nainital)  
 
-**How can one learn more about work related to your thesis? (Add specifics if possible)**: One can go through the papers by the GaiaUB group at ICCUB, University of Barcelona.
+**How can one learn more about work related to your thesis?**  
+One can go through the papers by the GaiaUB group at ICCUB, University of Barcelona.
 
-[To start of project↑](#galactic-disk-morphology)
+[To start of project↑](#galactic-disk-morphology)  
 [To main section↑](#astrophysics-and-cosmology)
 
 
 
 ## Galactic Dynamics
 
-**Title**: Simulation studies of Black Holes (BH) originating in Globular clusters [(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/PRJ50X_Thesis_Poster_A1__Portrait__MS18006(1)-ShivShankarSingh.pdf)
-**Name**: Shiv Shankar Singh (MS18006)
-**Local Thesis Guide**: Prof. Jasjeet Singh Bagla
+**Title**: Simulation studies of Black Holes (BH) originating in Globular clusters [(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/PRJ50X_Thesis_Poster_A1__Portrait__MS18006(1)-ShivShankarSingh.pdf)  
+**Name**: Shiv Shankar Singh (MS18006)  
+**Local Thesis Guide**: Prof. Jasjeet Singh Bagla  
 
 
-**Brief explanation**: 
+**Brief explanation**:  
 *Black holes (BHs) are celestial objects characterized by their extraordinary gravitational forces, which are so powerful that they prevent even light from escaping. Within globular clusters, densely packed groups of stars held together by gravity, the presence and evolution of BHs significantly influence the dynamical processes unfolding in these systems.*
 *This study aims to examine the behavior of BHs originating in globular clusters, with a particular focus on understanding their dynamics as they move rapidly through the cluster. By creating a realization of a Plummer sphere, we analyze the equilibrium state of the system and introduce a massive particle to represent a BH.*
 *Our investigation delves into the dynamics of this massive particle as it traverses the Plummer sphere, taking into account the effects of dynamical friction. The findings from our simulations offer valuable insights into the dynamics of BHs in globular clusters, enhancing our understanding of their behavior within these dense stellar environments.*
 
 
-**Why did you decide to choose this topic/problem for your thesis?**
+**Why did you decide to choose this topic/problem for your thesis?**  
 *A brief motivation:*
 
 *Globular clusters, dense spherical assemblies of stars orbiting the outskirts of galaxies, provide invaluable insights into galaxy formation, evolution, and the nature of dark matter. With high-density cores, these clusters are thought to harbor a significant number of black holes (BHs). However, the dynamics and time evolution of these systems remain largely unexplored. In this work, we develop a simple model to investigate the dynamics of massive objects, such as BHs, moving through a globular cluster, employing both N-body simulations and analytical methods.*
@@ -186,17 +186,18 @@ Use the quicklinks below:
 *Using the Plummer sphere model and the Barnes-Hut algorithm, we conducted N-body simulations for an initial population of* $1 \times 10^5$ *stars and massive compact objects (BHs) with masses ranging from* $10^2$ *to* $10^3$ *solar masses. Our results provide insights into the implications of introducing BHs with significant kick velocities and how this affects their dynamics within the globular cluster.*
 
 
-**How did you go about learning and researching for your thesis?**
+**How did you go about learning and researching for your thesis?**  
 *We simulated the Plummer sphere using the Barnes-Hut algorithm to establish the time-stationary nature of the Plummer sphere.*
 
-**Do you plan to continue working on your thesis topic in the future, or changing to something else? (Elaborate if necessary)**
+**Do you plan to continue working on your thesis topic in the future, or changing to something else?**  
 *I wish to work on more simulations and understand the dynamics from a numerical point of view. Additionally, I plan to work on observational data and compare it with my simulation data to assess our understanding of the laws of physics.*
 
-**How can one learn more about work related to your thesis? (Add specifics if possible)**
+**How can one learn more about work related to your thesis?**  
 *After the thesis submission is complete, I will upload all the relevant materials and code on my GitHub page. You are welcome to explore everything there. While the research problem which I was trying to address is not taken up by many researchers, you can still refer to the references mentioned in the poster for further information.*
 
-[To start of project↑](#galactic-dynamics)
-[To main section↑](#astrophysics-and-cosmology)
+[To start of project↑](#galactic-dynamics)  
+[To main section↑](#astrophysics-and-cosmology)  
+
 
 
 # Biology and Biophysics
