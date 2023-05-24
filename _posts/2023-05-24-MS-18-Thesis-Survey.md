@@ -263,22 +263,22 @@ One can go through the papers by the GaiaUB group at ICCUB, University of Barcel
 **Name**: Shreyas Gadge (MS18157)  
 **Local Thesis Guide**: Sudeshna Sinha  
 
-**Brief explanation**:
+**Brief explanation**:  
 *We look at a density-dependent dispersal rule - threshold-activated dispersal for predators in a tritrophic (vegetation-prey-predator) food web model, extended spatially.*
 *The original model by Blasius et. al. (without dispersal) suggests a uniform phase oscillation with chaotic amplitude (UPCA) dynamics for predators in the vertical three-species food-chain strikingly similar to the natural Canadian Lynx population cycle across years. We look at dispersal of predators from a single ecological patch undergoing local food web dynamics into the external world and observe the stabilisation of the original chaotic dynamics for low threshold values*
 *We also observe a stabilisation of predators to period-2 cycle but saturation with high oscillation amplitude for dispersal at low threshold in a closed-ring of ecological patches (ring size (N) =3).*
 *Synchronisation in predator population across patches is also observed for low threshold values. Stability analysis suggests an unstable  2D vegetation-prey system with evidence of extreme events when the predator is fixed at the critical threshold. Our study explores a novel dispersal rule dependent on the local patch dynamics and the results have the potential to understand the stability of real-world ecological systems. In addition, we find that threshold-activated dispersal is a probable factor to induce extreme events or extinction across species in the tritrophic model, and hence, has an application in conservation studies.*
 
-**Why did you decide to choose this topic/problem for your thesis?**
+**Why did you decide to choose this topic/problem for your thesis?**  
 *I was always interested in complex systems with a curiosity to study emergent properties across biological scales (neuronal to individual to populations). Having worked on computational models in neuroscience, I wanted to probe questions at a larger scale like stability of ecological populations connected in space. Stability is influenced by several intrinsic and extrinsic factors, and this particular question was interesting to me as it allowed me to uncover the complexity of systems with an interplay between intrinsic food web dynamics and extrinsic dispersal dynamics as factors affecting the emergent property of stability and persistence.*
 
-**How did you go about learning and researching for your thesis?**
+**How did you go about learning and researching for your thesis?**  
 *Having a quantitative background in modeling complex systems gave a headstart to understand the mathematical encoding of ecological systems. However, since I was new to ecological systems, intensive literature reviews suggested by my guide and also explored by myself helped in getting familiar with concepts of ecological dynamics and their theoretical understanding. Interdisciplinary studies bring several challenges as it has to be probed with multiple viewpoints, and spending considerable time on the basic model and the groundwork before extending the complexity contributed to establishing a comfort level with the system. Discussing the ideas (even the most stupid ones) regularly with my guide and peers also contributed to the learning. There is a certain advantage with theoretical modeling, the quick feedback which forms a great check and balance way of working.*
 
-**Do you plan to continue working on your thesis topic in the future, or changing to something else?**
+**Do you plan to continue working on your thesis topic in the future, or changing to something else?**  
 *I plan to work in the same broad field of nonlinear dynamics and complex systems. However, I would be shifting to a different set of systems to uncover the similar questions on stability and spatiotemporal dynamics across social and urban ecosystems perturbed by factors like climate change.*
 
-**How can one learn more about work related to your thesis?**
+**How can one learn more about work related to your thesis?**  
 *For non-linear dynamics, Steven Strogatz's book is a great place to start (you need to have done courses in classical mechanics for this).* 
 *Several courses are regularly offered at IISER where you can learn more about complex systems - Non-linear dynamics, Theoretical Biology, Network Science, Theory of Computation, etc. You can also go to the Moodle archive (2020-21 even sem) and find lectures on modeling complex systems (IDC621) by Prof Sudeshna Sinha.*
 *For this field, once you are familiar with the concept of differential equations or functional maps and basic coding, you can build up your knowledge using basic papers such as* [*Nature article*](https://www.nature.com/articles/20676) *and* [*Physical Review Letters article*](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.71.4083) *and try to reproduce some basic results.*
@@ -390,7 +390,7 @@ One can go through the papers by the GaiaUB group at ICCUB, University of Barcel
 # Humanities
 
 ## Film Studies
-**Title**: Pride and Musicals: A study of queer musical films[(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/Posterfinal1-AryaPadhye.pdf)  
+**Title**: Pride and Musicals: A study of queer musical films [(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/Posterfinal1-AryaPadhye.pdf)  
 **Name**: Arya Padhye (MS 18200)  
 **Local Thesis Guide**: Dr. Adrene Freeda D'Cruz  
 [To start of project↑](#film-studies)  
