@@ -84,7 +84,8 @@ Use the quicklinks below:
 # Astrophysics and Cosmology
 
 ## Cosmological Data Analysis
-**Title**: Cosmological Data Fitting [(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/PRJ502_Poster-AdityaPawanSaikri.pdf)
+**Title**: Cosmological Data Fitting [(Poster)](https://github.com/PhiclubIISERM/phiclubiiserm.github.io/blob/master/external%20content/Posters/PRJ502_Poster-AdityaPawanSaikri.pdf)  
+
 **Name**: Aditya Pawan Saikia (MS18208)
 **Local Thesis Guide**: Dr. Harvinder Kaur Jassal
 
