@@ -3,7 +3,7 @@ title: MS 18 Thesis Survey Results
 tags: Career
 ---
 
-Phi@I has published the results of the MS 18 thesis survey.
+Phi@I has published the results of the MS 18 thesis survey!
 
 <!--more-->
 
