@@ -68,7 +68,7 @@ paths:
   home    : # home layout url, "/" (default)
   archive : # "/archive.html" (default)
   rss     : # "/feed.xml" (default)
-  thesis survey results:# "/MS-18-Thesis-Survey.html" (default)
+ 
 
 
 ## => Post
