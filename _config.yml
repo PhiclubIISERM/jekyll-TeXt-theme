@@ -24,7 +24,10 @@ title   : Phi@I
 description: > # this means to ignore newlines until "Language & timezone"
   Physics club of IISER-M
 
-
+navbar-links:
+  Thesis Survey: "https://phiclubiiserm.github.io/2023/05/24/MS-18-Thesis-Survey.html"
+  
+  
 ## => Language and Timezone
 ##############################
 lang: # the language of your site, default as "en"
