@@ -1,0 +1,108 @@
+@media(max-width:992px){
+    .container{
+        width: 95%;
+    }
+    .half{
+        flex: 0 0 100%;
+    }
+    .third{
+        flex: 0 0 50%;
+    }
+    .fourth{
+        flex: 0 0 50%;
+    }
+    .fifth{
+        flex: 0 0 50%;
+    }
+    .flex{
+        display: block;
+    }
+    .f-10,.f-20,.f-25,.f-30,.f-40,.f-50,.f-60,.f-70,.f-75,.f-80,.f-90, .f-100{
+        width:100%;
+    }
+    /* body divs */
+    .m-hide{
+        display: none;
+    }
+    .logobg{
+    padding-top:30px;
+    display: flex;
+    justify-content: center;
+    }
+    .logo{
+        flex:0 0 100%;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    #nav-box{
+        border-radius: 30px;
+        /*color:black;*/
+        padding-left: 5px;
+        padding-right:5px;
+        display: flex;
+        flex-direction: center;
+        align-items: center;
+        height: 50px;
+        font-size: 20px;
+        
+    }
+    .navigation{
+        position: fixed;
+        z-index: 9999;
+        padding-top:10px;
+        padding-bottom: 10px;
+        padding-left: 2.5%;
+        padding-right: 2.5%;
+        width:95%;
+        max-width: 95%;
+        background: none;
+        color:white;
+        background: rgba(0, 0, 0, 0.388);
+    }
+    .mobile-menu-top{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+    }
+    .mobile-logo{
+        flex: 0 0 60%;
+    }
+    .mobile-bar{
+        flex: 0 0 40%;
+        justify-content: right;
+        align-items: right;
+        display: flex;
+
+    }
+    .center-jus{
+        display: flex;
+        justify-content: center;
+        align-items: end;
+    }
+    .box-green-bg{
+        color: white;
+        border-radius: 10px;
+        backdrop-filter: blur(1px);
+        padding-top:10px;
+        padding-bottom: 30px;
+        padding-right: 2%;
+        padding-left: 2%;
+        width: 96%;
+        font-size:clamp(35px, 200%, 40px);
+    }
+    body{
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+    table{
+        overflow: auto;
+        word-wrap: normal;
+        width: 100%;
+    }
+    .table-container{
+        width:fit-content;
+        overflow-x: scroll;
+        width: 100%;
+    }
+    }

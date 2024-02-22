@@ -1,0 +1,80 @@
+@media(min-width:993px){
+.f-auto{
+    flex: 0 0 auto;
+}
+.half{
+    flex: 0 0 50%;
+}
+.third{
+    flex: 0 0 33.33%;
+}
+.fourth{
+    flex: 0 0 25%;
+}
+.fifth{
+    flex: 0 0 20%;
+}
+.f-10{
+    flex:  0 0 10%;
+}
+.f-20{
+    flex:  0 0 20%;
+}
+.f-22{
+    flex:  0 0 22%;
+}
+.f-24{
+    flex:  0 0 24%;
+}
+.f-25{
+    flex:  0 0 25%;
+}
+.f-26{
+    flex:  0 0 26%;
+}
+.f-30{
+    flex:  0 0 30%;
+}
+.f-37{
+    flex:  0 0 37%;
+}
+.f-38{
+    flex:  0 0 38%;
+}
+.f-39{
+    flex:  0 0 39%;
+}
+.f-40{
+    flex:  0 0 40%;
+}
+.f-50{
+    flex:  0 0 50%;
+}
+.f-60{
+    flex:  0 0 60%;
+}
+.f-70{
+    flex:  0 0 70%;
+}
+.f-75{
+    flex: 0 0 75%;
+}
+.f-80{
+    flex:  0 0 80%;
+}
+.f-90{
+    flex:  0 0 90%;
+}
+.f-100{
+    flex:  0 0 100%;
+}
+.d-hide{display: none;}
+/*body divs*/
+
+.logobg{
+    padding-top:80px;
+    display: flex;
+    justify-content: center;
+}
+
+}
